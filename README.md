@@ -4,7 +4,7 @@
 
 [Serverpod](https://serverpod.dev) is a next-generation app and web server, explicitly built for the Flutter and Dart ecosystem. It allows you to write your server-side code in Dart, automatically generate your APIs, and hook up your database with minimal effort. Serverpod is open-source, and you can host your server anywhere.
 
-___This fork tries to make it windows-compatible
+___This fork tries to make it windows-compatible___
 
 I have no personal experience in this so yhea, we will see :D 
 
